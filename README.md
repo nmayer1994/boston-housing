@@ -214,7 +214,7 @@ vs.ModelLearning(features, prices)
 ```
 
 
-![png](output_20_0.png)
+![png](img/output_20_0.png)
 
 
 ### Question 4 - Learning the Data
@@ -239,7 +239,7 @@ vs.ModelComplexity(X_train, y_train)
 ```
 
 
-![png](output_24_0.png)
+![png](img/output_24_0.png)
 
 
 ### Question 5 - Bias-Variance Tradeoff
